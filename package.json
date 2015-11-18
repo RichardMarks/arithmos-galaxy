@@ -1,0 +1,14 @@
+{
+    "name": "arithmos-galaxy",
+    "version": "0.1.0",
+    "description": "A simple educational HTML5 game",
+    "license": "MIT",
+    "author": "Richard Marks <ccpsceo@gmail.com> (https://github.com/RichardMarks/)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RichardMarks/arithmos-galaxy.git"
+    },
+    "devDependencies": {
+        "jslint": "latest"
+    }
+}
